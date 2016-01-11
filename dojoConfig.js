@@ -12,7 +12,7 @@ window.dojoConfig = {
   },
   packages: [{
     name: 'app',
-    location: locationPath + 'src',
+    location: locationPath + '/src',
     main: 'main'
   }]
 };
